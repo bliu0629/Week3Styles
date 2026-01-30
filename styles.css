@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: darkred;
+    text-align: center;
+  font-family: Bungee;
+  font-weight: bold;
+  font-weight: 700;
+  font-size: 350%;
+}
+#text {
+    color: white;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
